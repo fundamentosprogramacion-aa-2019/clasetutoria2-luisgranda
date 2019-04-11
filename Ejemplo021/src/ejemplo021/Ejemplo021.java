@@ -15,7 +15,16 @@ public class Ejemplo021 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        String nombre; // Variable nombre
+        String apellido;
+        int edad; 
+        
+            nombre = "luis";
+            apellido = "granda";
+            edad = 20;
+        System.out.println("Mi nombre es: " +nombre+ "\n "
+                + "Mi apellido es:" +apellido
+                +"\n Mi edad es:"+edad);
     }
     
 }
