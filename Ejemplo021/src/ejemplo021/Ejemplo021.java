@@ -17,14 +17,14 @@ public class Ejemplo021 {
     public static void main(String[] args) {
         String nombre; // Variable nombre
         String apellido;
-        int edad; 
-        
-            nombre = "luis";
-            apellido = "granda";
-            edad = 20;
-        System.out.println("Mi nombre es: " +nombre+ "\n "
-                + "Mi apellido es:" +apellido
-                +"\n Mi edad es:"+edad);
+        int edad;
+
+        nombre = "luis";
+        apellido = "granda";
+        edad = 20;
+        System.out.println("Mi nombre es: " + nombre + "\n "
+                + "Mi apellido es:" + apellido
+                + "\n Mi edad es:" + edad);
     }
-    
+
 }
